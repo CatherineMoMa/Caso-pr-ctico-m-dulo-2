@@ -9,6 +9,10 @@ Transformar y visualizar los datos de manera que permita a los propietarios de t
 
 
 ## Resultado de analisis
+Se tiene mayor ventas en ropa en cuestion del genero femenino y en cuestion del genero masculino en electronica 
+
 ![Imagen1](https://github.com/user-attachments/assets/3fd9818f-b712-40e3-8dbc-fde75f1230af)
+
+108 personas realizaron compras de $50 tanto hombres como mujeres, en cambio 35 personas realizaron compras de $600 		
 
 ![Imagen2](https://github.com/user-attachments/assets/83bd2e50-98b4-41ba-bdc2-bbd1622fc0f9)
